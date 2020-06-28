@@ -10,11 +10,11 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Zain Siddiqui # add your name
 author-img: david-freeman.jpg # add your photo
 about-author: I am a UCI student graduating in March 2021 and have a knack for full stack web development. # add description
-social-twitter: zainyydoe # add your Twitter handle
+social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: zasiddiq # add your Github handle
 social-linkedin: zasiddiq # add your Linkedin handle
-social-email: zainsiddiquica@gmail.com # add your Email address
+social-email: zainsiddiqui# add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
